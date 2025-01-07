@@ -1,1 +1,1 @@
-# DEAW
+Primera pràctica de Git i GitHub al módul de DAW
