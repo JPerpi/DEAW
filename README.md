@@ -7,3 +7,6 @@ Primera pràctica de Git i GitHub al módul de DAW
 | Antonio   | https://github.com/Kiwimmp           |
 | Dani      | https://github.com/DaniDaniel09      |
 | Isabel    | https://github.com/isabelvaliente    |
+| Josep     | https://github.com/JosepSala         |
+| Axel      | https://github.com/AxelDAW           |
+| Borja     | https://github.com/Borja725          |
